@@ -1,4 +1,4 @@
-# Recipe graphql api made using NODEJS 
+# Recipe graphql api made using NODEJS ,MONGODB as database
 
 The API is hosted on Vercel with endpoint as : [https://graphql-recipe-api.vercel.app/](https://graphql-recipe-api.vercel.app/)
 
